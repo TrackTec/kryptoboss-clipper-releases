@@ -4,11 +4,13 @@ Macht aus jedem Stream automatisch Shorts und ein Highlight-Video und plant sie 
 
 ## Installieren
 
-1. **[KryptoBOSS-Clipper-Setup.cmd herunterladen](https://github.com/TrackTec/kryptoboss-clipper-releases/releases/latest/download/KryptoBOSS-Clipper-Setup.cmd)**
-2. Die Datei doppelklicken. Falls Windows warnt: **Weitere Informationen → Trotzdem ausführen**.
-3. Warten, bis sich der Browser mit dem Einrichtungs-Assistenten öffnet (15–25 Minuten).
+1. **[KryptoBOSS-Clipper-Setup.exe herunterladen](https://github.com/TrackTec/kryptoboss-clipper-releases/releases/latest/download/KryptoBOSS-Clipper-Setup.exe)**
+2. Die Datei doppelklicken. Falls Windows warnt („Der Computer wurde durch Windows geschützt“): **Weitere Informationen → Trotzdem ausführen**.
+3. Auf **Installieren** klicken und warten, bis sich der Browser mit dem Einrichtungs-Assistenten öffnet (15–25 Minuten).
 
-Der Installer lädt immer die neueste Version, prüft sie und richtet alles ein.
+Die Setup.exe richtet alles ein. Updates holt sich der Clipper danach selbst.
+
+Falls die .exe blockiert wird: der kleine Ersatz-Installer [KryptoBOSS-Clipper-Setup.cmd](https://github.com/TrackTec/kryptoboss-clipper-releases/releases/latest/download/KryptoBOSS-Clipper-Setup.cmd) macht dasselbe und lädt immer die neueste Version.
 
 ## Voraussetzungen
 
